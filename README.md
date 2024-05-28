@@ -39,7 +39,7 @@ tqdm
 ### Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/arshakshan/Deepfake-Detection.git
 cd deepfake_detection_model
 ```
 
